@@ -28,7 +28,7 @@ border-bottom: 5px solid gold;
     background-color: #70a694;
 }
 .enemy{
-    background-image: url("/SRC/Images/ralph.png");
+    background-image: url("..Images/ralph.png");
     background-size: cover;
 }
 .menu-lives{
